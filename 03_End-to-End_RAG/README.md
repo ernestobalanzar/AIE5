@@ -17,7 +17,7 @@ Building off last week, we're going to take our Pythonic RAG application to the 
 
 This week, we'll be working out of the [AIE5-DeployPythonicRAG repository](https://github.com/AI-Maker-Space/AIE5-DeployPythonicRAG)!
 
-> NOTE: IT IS CRITICAL THAT YOU DO NOT CLONE THE NEW REPOSITORY INTO YOUR EXISTING AIE4 REPOSITORY. THIS WILL CAUSE MANY HEADACHES AND GIT-RELATED SADNESS.
+> NOTE: IT IS CRITICAL THAT YOU DO NOT CLONE THE NEW REPOSITORY INTO YOUR EXISTING AIE5 REPOSITORY. THIS WILL CAUSE MANY HEADACHES AND GIT-RELATED SADNESS.
 
 Clone the repository with the command: 
 
