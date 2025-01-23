@@ -14,7 +14,7 @@ If running locally:
 
 1. `uv sync`
 2. Open the notebook
-3. Select the venv created by `uv sync`
+3. Select the venv created by `uv sync` as your kernel
 
 Run the notebook ([Colab link](https://colab.research.google.com/drive/16oa0AloaLOTm94l0dmqUYN3bLe846UZk?usp=sharing)) and complete the contained tasks:
 
@@ -23,6 +23,7 @@ Run the notebook ([Colab link](https://colab.research.google.com/drive/16oa0Aloa
   2. Set Environment Variables  
   3. Initialize a Simple Chain using LCEL
   4. Implement Naive RAG using LCEL
+  5. Implement Simple RAG using LCEL
 
 - 🤝 Breakout Room #2:
   1. Install LangGraph
