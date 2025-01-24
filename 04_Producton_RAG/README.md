@@ -7,6 +7,7 @@
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Session 4: Pre-Work](https://www.notion.so/Session-4-RAG-and-Evaluation-with-LangChain-LangSmith-17bcd547af3d805aa734d01fce1a057e?pvs=4#183cd547af3d8048a602eb915836bef9)| [Session 4: RAG and Evaluation with LangChain & LangSmith](https://www.notion.so/Session-4-RAG-and-Evaluation-with-LangChain-LangSmith-17bcd547af3d805aa734d01fce1a057e) | Coming Soon! | Coming Soon! | You are here! | Coming Soon! | [AIE5 Feedback 1/23](https://forms.gle/pzwREd3RVRgp6D4q9) |
 
 # Build 🏗️
 
@@ -43,7 +44,7 @@ Optionally, you can run the LangSmith and Evaluation notebook ([Colab link](http
 
 # Ship 🚢
 
-- The completed notebooks. 
+- The completed notebook. 
 - 5min. Loom Video
 
 # Share 🚀
