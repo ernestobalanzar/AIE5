@@ -6,10 +6,14 @@ name = "04-producton-rag"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+<<<<<<< HEAD
+    { name = "cohere" },
+=======
     { name = "bs4" },
     { name = "cohere" },
     { name = "grandalf" },
     { name = "ipykernel" },
+>>>>>>> 5319aac2 (Initial commit - reset history)
     { name = "langchain" },
     { name = "langchain-community" },
     { name = "langchain-core" },
@@ -19,7 +23,10 @@ dependencies = [
     { name = "langsmith" },
     { name = "lxml" },
     { name = "openai" },
+<<<<<<< HEAD
+=======
     { name = "pandas" },
+>>>>>>> 5319aac2 (Initial commit - reset history)
     { name = "pymupdf" },
     { name = "qdrant-client" },
     { name = "tiktoken" },
@@ -27,10 +34,14 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+<<<<<<< HEAD
+    { name = "cohere", specifier = ">=5.13.11" },
+=======
     { name = "bs4", specifier = ">=0.0.2" },
     { name = "cohere", specifier = ">=5.13.11" },
     { name = "grandalf", specifier = ">=0.8" },
     { name = "ipykernel", specifier = ">=6.29.5" },
+>>>>>>> 5319aac2 (Initial commit - reset history)
     { name = "langchain", specifier = "==0.3.15" },
     { name = "langchain-community", specifier = "==0.3.15" },
     { name = "langchain-core", specifier = "==0.3.31" },
@@ -40,7 +51,10 @@ requires-dist = [
     { name = "langsmith", specifier = ">=0.3.1" },
     { name = "lxml", specifier = ">=5.3.0" },
     { name = "openai", specifier = ">=1.60.0" },
+<<<<<<< HEAD
+=======
     { name = "pandas", specifier = ">=2.2.3" },
+>>>>>>> 5319aac2 (Initial commit - reset history)
     { name = "pymupdf", specifier = "==1.25.2" },
     { name = "qdrant-client", specifier = "==1.13.2" },
     { name = "tiktoken", specifier = ">=0.8.0" },
@@ -122,6 +136,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "appnope"
 version = "0.1.4"
 source = { registry = "https://pypi.org/simple" }
@@ -140,6 +156,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "attrs"
 version = "24.3.0"
 source = { registry = "https://pypi.org/simple" }
@@ -149,6 +166,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "beautifulsoup4"
 version = "4.12.3"
 source = { registry = "https://pypi.org/simple" }
@@ -173,6 +192,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "certifi"
 version = "2024.12.14"
 source = { registry = "https://pypi.org/simple" }
@@ -255,6 +275,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "comm"
 version = "0.2.2"
 source = { registry = "https://pypi.org/simple" }
@@ -267,6 +289,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "dataclasses-json"
 version = "0.6.7"
 source = { registry = "https://pypi.org/simple" }
@@ -280,6 +303,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "debugpy"
 version = "1.8.12"
 source = { registry = "https://pypi.org/simple" }
@@ -302,6 +327,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "distro"
 version = "1.9.0"
 source = { registry = "https://pypi.org/simple" }
@@ -311,6 +337,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "executing"
 version = "2.2.0"
 source = { registry = "https://pypi.org/simple" }
@@ -320,6 +348,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "fastavro"
 version = "1.10.0"
 source = { registry = "https://pypi.org/simple" }
@@ -376,6 +405,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "grandalf"
 version = "0.8"
 source = { registry = "https://pypi.org/simple" }
@@ -388,6 +419,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "greenlet"
 version = "3.1.1"
 source = { registry = "https://pypi.org/simple" }
@@ -560,6 +592,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "ipykernel"
 version = "6.29.5"
 source = { registry = "https://pypi.org/simple" }
@@ -616,6 +650,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "jiter"
 version = "0.8.2"
 source = { registry = "https://pypi.org/simple" }
@@ -660,6 +695,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "jupyter-client"
 version = "8.6.3"
 source = { registry = "https://pypi.org/simple" }
@@ -690,6 +727,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "langchain"
 version = "0.3.15"
 source = { registry = "https://pypi.org/simple" }
@@ -886,6 +924,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "matplotlib-inline"
 version = "0.1.7"
 source = { registry = "https://pypi.org/simple" }
@@ -898,6 +938,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "msgpack"
 version = "1.1.0"
 source = { registry = "https://pypi.org/simple" }
@@ -950,6 +991,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "nest-asyncio"
 version = "1.6.0"
 source = { registry = "https://pypi.org/simple" }
@@ -959,6 +1002,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "numpy"
 version = "2.2.2"
 source = { registry = "https://pypi.org/simple" }
@@ -1036,6 +1080,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "pandas"
 version = "2.2.3"
 source = { registry = "https://pypi.org/simple" }
@@ -1093,11 +1139,16 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "portalocker"
 version = "2.10.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
+<<<<<<< HEAD
+    { name = "pywin32", marker = "platform_system == 'Windows'" },
+=======
     { name = "pywin32", marker = "sys_platform == 'win32'" },
+>>>>>>> 5319aac2 (Initial commit - reset history)
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/ed/d3/c6c64067759e87af98cc668c1cc75171347d0f1577fab7ca3749134e3cd4/portalocker-2.10.1.tar.gz", hash = "sha256:ef1bf844e878ab08aee7e40184156e1151f228f103aa5c6bd0724cc330960f8f", size = 40891 }
 wheels = [
@@ -1105,6 +1156,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "prompt-toolkit"
 version = "3.0.50"
 source = { registry = "https://pypi.org/simple" }
@@ -1117,6 +1170,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "propcache"
 version = "0.2.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1156,6 +1210,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "psutil"
 version = "6.1.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1189,6 +1245,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "pycparser"
 version = "2.22"
 source = { registry = "https://pypi.org/simple" }
@@ -1250,6 +1307,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "pygments"
 version = "2.19.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1259,6 +1318,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "pymupdf"
 version = "1.25.2"
 source = { registry = "https://pypi.org/simple" }
@@ -1274,6 +1334,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "pyparsing"
 version = "3.2.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1295,6 +1357,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "python-dotenv"
 version = "1.0.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1304,6 +1367,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "pytz"
 version = "2024.2"
 source = { registry = "https://pypi.org/simple" }
@@ -1313,6 +1378,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "pywin32"
 version = "308"
 source = { registry = "https://pypi.org/simple" }
@@ -1340,6 +1406,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "pyzmq"
 version = "26.2.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1372,6 +1440,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "qdrant-client"
 version = "1.13.2"
 source = { registry = "https://pypi.org/simple" }
@@ -1449,6 +1518,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "six"
 version = "1.17.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1458,6 +1529,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "sniffio"
 version = "1.3.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1467,6 +1539,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "soupsieve"
 version = "2.6"
 source = { registry = "https://pypi.org/simple" }
@@ -1476,6 +1550,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "sqlalchemy"
 version = "2.0.37"
 source = { registry = "https://pypi.org/simple" }
@@ -1497,6 +1572,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "stack-data"
 version = "0.6.3"
 source = { registry = "https://pypi.org/simple" }
@@ -1511,6 +1588,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "tenacity"
 version = "9.0.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1563,6 +1641,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "tornado"
 version = "6.4.2"
 source = { registry = "https://pypi.org/simple" }
@@ -1581,11 +1661,16 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "tqdm"
 version = "4.67.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
+<<<<<<< HEAD
+    { name = "colorama", marker = "platform_system == 'Windows'" },
+=======
     { name = "colorama", marker = "sys_platform == 'win32'" },
+>>>>>>> 5319aac2 (Initial commit - reset history)
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/a8/4b/29b4ef32e036bb34e4ab51796dd745cdba7ed47ad142a9f4a1eb8e0c744d/tqdm-4.67.1.tar.gz", hash = "sha256:f8aef9c52c08c13a65f30ea34f4e5aac3fd1a34959879d7e59e63027286627f2", size = 169737 }
 wheels = [
@@ -1593,6 +1678,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "traitlets"
 version = "5.14.3"
 source = { registry = "https://pypi.org/simple" }
@@ -1602,6 +1689,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "types-requests"
 version = "2.32.0.20241016"
 source = { registry = "https://pypi.org/simple" }
@@ -1636,6 +1724,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "tzdata"
 version = "2025.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1645,6 +1735,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "urllib3"
 version = "2.3.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1654,6 +1745,8 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
 name = "wcwidth"
 version = "0.2.13"
 source = { registry = "https://pypi.org/simple" }
@@ -1663,6 +1756,7 @@ wheels = [
 ]
 
 [[package]]
+>>>>>>> 5319aac2 (Initial commit - reset history)
 name = "yarl"
 version = "1.18.3"
 source = { registry = "https://pypi.org/simple" }
